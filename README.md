@@ -1,2 +1,2 @@
-# RA2_rules_ini
-RA2_YULI_rules.ini
+# RA2_rulesmd_ini
+RA2_YURIS_rules.ini
